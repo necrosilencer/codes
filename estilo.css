@@ -1,0 +1,47 @@
+* {margin:0; 
+padding:0;
+box-sizing: border-box;
+overflow: auto;}
+body {width: 360px;
+height: 640px;}
+header {width:320px;
+margin:0 auto; 
+margin-top: 23px;
+text-align: center;
+}
+header>img {
+	width: 100%;}
+label{
+width: 195px;
+height: 32px;
+font-family: Roboto;
+font-size: 16px;
+color: #212529;
+text-decoration: none solid rgb(33, 37, 41);
+line-height: 24px;
+}
+main {width: 338px;
+	margin:0 auto;}
+input {width: 338px;}
+button {width: 87px;
+height: 38px;
+padding: 0px 11px;
+border: 1px solid #28a745;
+border-radius: 4px;
+font-family: Roboto;
+font-size: 16px;
+color: #28a745;
+text-decoration: none solid rgb(40, 167, 69);
+margin-left: 50px;
+}
+#titulo {
+height: 38px;
+font-family: 'Crafty Girls', cursive;
+font-size: 32px;
+color: #cf2326;
+text-decoration: none solid rgb(207, 35, 38);
+line-height: 38px;
+text-align: center;
+}
+
+
